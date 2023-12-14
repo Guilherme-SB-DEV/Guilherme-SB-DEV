@@ -18,7 +18,7 @@ I'm currently learning how to create projects with:</h2>
  -  Flask (python)
  -  Playwright (python)
  
-- 😄 Pronouns: 
+
  
 
 <!--
