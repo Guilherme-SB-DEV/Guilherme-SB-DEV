@@ -17,6 +17,8 @@ I'm currently learning how to create projects with:</h2>
  - Bootstrap (css/js)
  -  Flask (python)
  -  Playwright (python)
+
+   [![Gui_srt](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-SB-DEV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 
  
