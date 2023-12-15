@@ -1,16 +1,16 @@
 ### Hi there 👋
 <h2>I'm Guilherme, an aspiring full stack developer.
-I'm currently learning how to create projects with:</h2>
+I'm currently learning how to create projects with:
 
- - HTML <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html_logo" />
+ - HTML [![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://skillicons.dev)
  
- - CSS <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css_logo"/>
+ - CSS [![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://skillicons.dev)
  
- - JavaScript <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Js_logo"/>
+ - JavaScript [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
  
- - Python <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="pytjon_logo"/>
+ - Python [![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)
  
- - Java <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java_logo"/>
+ - Java  [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)</h2>
 
  -- 🌱 I’m currently learning about these frameworks ->
  
@@ -25,7 +25,6 @@ I'm currently learning how to create projects with:</h2>
 
 <!--
 
-<img src="" alt="logo_html"/>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
