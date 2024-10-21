@@ -14,7 +14,7 @@ I'm currently learning how to create projects with:
 
  -- 🌱 I’m currently learning about these frameworks ->
  
- - Bootstrap (css/js)
+ - Bootstrap (css/js) <img src="https://skillicons.dev/icons?i=bootstrap" />
  -  NodeJS
  -  Playwright
  -  Angular
