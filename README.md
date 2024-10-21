@@ -15,10 +15,10 @@ I'm currently learning how to create projects with:
  -- 🌱 I’m currently learning about these frameworks ->
  
  - Bootstrap (css/js) <img src="https://skillicons.dev/icons?i=bootstrap" />
- -  NodeJS
+ -  NodeJS <img src="https://skillicons.dev/icons?i=nodejs" />
  -  Playwright
- -  Angular
- -  Pytorch
+ -  Angular <img src="https://skillicons.dev/icons?i=angular" />
+ -  Pytorch <img src="https://skillicons.dev/icons?i=pytorch" />
 
    [![Gui_srt](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-SB-DEV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
