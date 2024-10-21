@@ -14,7 +14,6 @@ I'm currently learning how to create projects with:
 
  -- 🌱 I’m currently learning about these frameworks ->
 
- 
  [![My Skills](https://skillicons.dev/icons?i=nodejs,bootstrap,angular,pytorch,redis,aws&perline=3)](https://skillicons.dev)
 
 <!--
