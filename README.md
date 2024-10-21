@@ -13,22 +13,11 @@ I'm currently learning how to create projects with:
  - Java  [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)</h2>
 
  -- 🌱 I’m currently learning about these frameworks ->
- 
- - Bootstrap (css/js) <img src="https://skillicons.dev/icons?i=bootstrap" />
- -  NodeJS <img src="https://skillicons.dev/icons?i=nodejs" />
- -  Playwright <img src="https://skillicons.dev/icons?i=playwright" />
- -  Angular <img src="https://skillicons.dev/icons?i=angular" />
- -  Pytorch <img src="https://skillicons.dev/icons?i=pytorch" />
-
-   [![Gui_srt](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-SB-DEV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-
- 
+ [![My Skills](https://skillicons.dev/icons?i=nodejs,bootstrap,angular,pytorch, redis)](https://skillicons.dev)
 
 <!--
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
