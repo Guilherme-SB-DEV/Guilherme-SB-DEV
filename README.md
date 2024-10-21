@@ -15,8 +15,10 @@ I'm currently learning how to create projects with:
  -- 🌱 I’m currently learning about these frameworks ->
  
  - Bootstrap (css/js)
- -  Flask (python)
- -  Playwright (python)
+ -  NodeJS
+ -  Playwright
+ -  Angular
+ -  Pytorch
 
    [![Gui_srt](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-SB-DEV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
