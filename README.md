@@ -16,7 +16,7 @@ I'm currently learning how to create projects with:
  
  - Bootstrap (css/js) <img src="https://skillicons.dev/icons?i=bootstrap" />
  -  NodeJS <img src="https://skillicons.dev/icons?i=nodejs" />
- -  Playwright
+ -  Playwright <img src="https://skillicons.dev/icons?i=playwright" />
  -  Angular <img src="https://skillicons.dev/icons?i=angular" />
  -  Pytorch <img src="https://skillicons.dev/icons?i=pytorch" />
 
