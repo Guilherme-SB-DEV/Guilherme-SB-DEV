@@ -34,7 +34,7 @@ I'm currently learning how to create projects with:
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IasminAngel&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-SB-DEV&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -42,7 +42,7 @@ I'm currently learning how to create projects with:
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=IasminAngel&theme=radical&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-SB-DEV&theme=radical&hide_border=false"
         alt="Github Stats"
       />
     </td>
