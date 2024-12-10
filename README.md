@@ -14,31 +14,7 @@ I'm currently learning how to create projects with:
 
  -- 🌱 I’m currently learning about these frameworks and tools->[![My Skills](https://skillicons.dev/icons?i=nodejs,bootstrap,angular,pytorch,redis,aws)](https://skillicons.dev)
 
-<!--
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
-<table>
-  <tr>
-    <td>
-      <!--<img 
-        align="left"
-          <!--src="https://github-readme-stats.vercel.app/api?username=IasminAngel&theme=radical&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />-->
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-SB-DEV&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
       <br />
       <img
         align="left"
